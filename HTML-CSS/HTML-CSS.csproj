@@ -5,4 +5,8 @@
     <RootNamespace>HTML_CSS</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Home\" />
+  </ItemGroup>
+
 </Project>
